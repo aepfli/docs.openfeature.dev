@@ -191,7 +191,7 @@ const config = {
             type: 'doc',
             docId: 'README',
             position: 'left',
-            docsPluginId: 'community',
+            docsPluginId: "community",
             label: 'Community',
           },
           {
